@@ -8,7 +8,7 @@ To:
 # Tool Used
 - Visual Studio Code (VS Code)
 # Objectives
--Understand the structure of a C++ program.
+- Understand the structure of a C++ program.
 -Learn the use of #include to add libraries.
 -Use cin and cout for input and output operations.
 -Implement arithmetic operations in C++.
